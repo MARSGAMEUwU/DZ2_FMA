@@ -1,0 +1,15 @@
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\bin\Debug\net8.0\ASD_Dz2_FMA.exe
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\bin\Debug\net8.0\ASD_Dz2_FMA.deps.json
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\bin\Debug\net8.0\ASD_Dz2_FMA.runtimeconfig.json
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\bin\Debug\net8.0\ASD_Dz2_FMA.dll
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\bin\Debug\net8.0\ASD_Dz2_FMA.pdb
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.AssemblyInfoInputs.cache
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.AssemblyInfo.cs
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.csproj.CoreCompileInputs.cache
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.sourcelink.json
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.dll
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\refint\ASD_Dz2_FMA.dll
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.pdb
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ASD_Dz2_FMA.genruntimeconfig.cache
+C:\Users\MARS\source\repos\ASD_Dz2_FMA\ASD_Dz2_FMA\obj\Debug\net8.0\ref\ASD_Dz2_FMA.dll
