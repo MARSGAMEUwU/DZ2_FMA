@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\",
+  "WorkspaceRootPath": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\ijournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\ijournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\movedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\movedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\placedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\placedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\takenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\takenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\takenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\source\\repos\\asd_dz2_fma\\asd_dz2_fma\\movedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\movedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\failedattemptevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\failedattemptevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\ijournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\ijournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|c:\\users\\mars\\documents\\github\\dz2_fma\\asd_dz2_fma\\asd_dz2_fma\\placedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09ADA3-2CE8-4747-9D65-638DCC3AE048}|ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj|solutionrelative:asd_dz2_fma\\placedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "FailedAttemptEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\FailedAttemptEvent.cs",
+              "RelativeDocumentMoniker": "ASD_Dz2_FMA\\FailedAttemptEvent.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\FailedAttemptEvent.cs",
+              "RelativeToolTip": "ASD_Dz2_FMA\\FailedAttemptEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T21:05:56.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MovedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\MovedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\MovedEvent.cs",
               "RelativeDocumentMoniker": "ASD_Dz2_FMA\\MovedEvent.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\MovedEvent.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\MovedEvent.cs",
               "RelativeToolTip": "ASD_Dz2_FMA\\MovedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "TakenEvent.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\TakenEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\TakenEvent.cs",
               "RelativeDocumentMoniker": "ASD_Dz2_FMA\\TakenEvent.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\TakenEvent.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\TakenEvent.cs",
               "RelativeToolTip": "ASD_Dz2_FMA\\TakenEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,65 +85,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PlacedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\PlacedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\PlacedEvent.cs",
               "RelativeDocumentMoniker": "ASD_Dz2_FMA\\PlacedEvent.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\PlacedEvent.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\PlacedEvent.cs",
               "RelativeToolTip": "ASD_Dz2_FMA\\PlacedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T19:38:08.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T19:38:08.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Shelf.cs",
+              "RelativeDocumentMoniker": "ASD_Dz2_FMA\\Shelf.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Shelf.cs",
+              "RelativeToolTip": "ASD_Dz2_FMA\\Shelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T19:32:36.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Shelf.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Shelf.cs",
-              "RelativeDocumentMoniker": "ASD_Dz2_FMA\\Shelf.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Shelf.cs",
-              "RelativeToolTip": "ASD_Dz2_FMA\\Shelf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T19:32:36.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Journal.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Journal.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Journal.cs",
               "RelativeDocumentMoniker": "ASD_Dz2_FMA\\Journal.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Journal.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Journal.cs",
               "RelativeToolTip": "ASD_Dz2_FMA\\Journal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T19:31:57.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IJournalEntry.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\IJournalEntry.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\IJournalEntry.cs",
               "RelativeDocumentMoniker": "ASD_Dz2_FMA\\IJournalEntry.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\IJournalEntry.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\IJournalEntry.cs",
               "RelativeToolTip": "ASD_Dz2_FMA\\IJournalEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T19:30:45.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T19:30:45.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Program.cs",
               "RelativeDocumentMoniker": "ASD_Dz2_FMA\\Program.cs",
-              "ToolTip": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Program.cs",
+              "ToolTip": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\Program.cs",
               "RelativeToolTip": "ASD_Dz2_FMA\\Program.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAQwIgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwKIAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T19:25:04.352Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASD_Dz2_FMA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc05d32a40165b79258809408733ed6fecd6bdbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d48775ba6087ca59763999adc4118e1b84939d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASD_Dz2_FMA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASD_Dz2_FMA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

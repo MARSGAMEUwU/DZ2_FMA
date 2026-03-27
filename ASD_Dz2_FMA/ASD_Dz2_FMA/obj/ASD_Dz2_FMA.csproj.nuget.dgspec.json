@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj": {}
+    "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj": {
+    "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj",
+        "projectUniqueName": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj",
         "projectName": "ASD_Dz2_FMA",
-        "projectPath": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj",
+        "projectPath": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA.csproj",
         "packagesPath": "C:\\Users\\MARS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MARS\\source\\repos\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\obj\\",
+        "outputPath": "C:\\Users\\MARS\\Documents\\GitHub\\DZ2_FMA\\ASD_Dz2_FMA\\ASD_Dz2_FMA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

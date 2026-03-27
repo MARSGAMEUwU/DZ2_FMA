@@ -6,6 +6,8 @@ using System.Text;
 
 class Program
 {
+
+    private static Journal<FailedAttemptEvent> failedJournal = new Journal<FailedAttemptEvent>();
     private const int slots = 5;
     private static Shelf shelfA = new Shelf('A', slots);
     private static Shelf shelfB = new Shelf('B', slots);
@@ -17,6 +19,7 @@ class Program
     static void Main()
     {
         LoadJournals();
+        RestoreShelves();
 
         while (true)
         {
@@ -72,6 +75,7 @@ class Program
         if (!shelf.PlaceItem(slotIndex, itemName!))
         {
             Console.WriteLine("Нельзя положить: слот уже занят.");
+            failedJournal.Add(new FailedAttemptEvent("Положить", shelfChar, slot, "слот занят"));
             return;
         }
 
@@ -95,6 +99,7 @@ class Program
         if (item == null)
         {
             Console.WriteLine("Нельзя забрать: слот пуст.");
+            failedJournal.Add(new FailedAttemptEvent("Изъятие", shelfChar, slot, "слот пуст"));
             return;
         }
 
@@ -125,8 +130,18 @@ class Program
         int destSlotIndex = destSlot - 1;
 
         var item = srcShelf.GetItem(srcSlotIndex);
-        if (item == null) { Console.WriteLine("Нельзя перенести: слот-источник пуст."); return; }
-        if (!destShelf.PlaceItem(destSlotIndex, item)) { Console.WriteLine("Нельзя перенести: слот-назначение занят."); return; }
+        if (item == null) 
+        { 
+            Console.WriteLine("Нельзя перенести: слот-источник пуст.");
+            failedJournal.Add(new FailedAttemptEvent("Перенести", srcShelfChar, srcSlot, "слот-источник пуст"));
+            return; 
+        }
+        if (!destShelf.PlaceItem(destSlotIndex, item)) 
+        {
+            Console.WriteLine("Нельзя перенести: слот-назначение занят.");
+            failedJournal.Add(new FailedAttemptEvent("Перенести", destShelfChar, destSlot, "слот-назначение занят"));
+            return; 
+        }
 
         srcShelf.TakeItem(srcSlotIndex);
         movedJournal.Add(new MovedEvent(srcShelfChar, srcSlot, destShelfChar, destSlot, item));
@@ -143,11 +158,17 @@ class Program
 
         Console.WriteLine("\n--- Переносы ---");
         foreach (var e in movedJournal.GetAll()) Console.WriteLine(e.ToScreenLine());
+
+        Console.WriteLine("\n--- Неуспешные попытки ---");
+        foreach (var e in failedJournal.GetAll()) Console.WriteLine(e.ToScreenLine());
     }
 
     private static void SaveJournals()
     {
         SaveJournal("placed.log", placedJournal.GetAll(), e => e.ToLogLine());
+        SaveJournal("taken.log", takenJournal.GetAll(), e => e.ToLogLine());
+        SaveJournal("moved.log", movedJournal.GetAll(), e => e.ToLogLine());
+        SaveJournal("failed.log", failedJournal.GetAll(), e => e.ToLogLine());
     }
 
     private static void SaveJournal<T>(string path, IEnumerable<T> entries, Func<T, string> toLogLine)
@@ -159,14 +180,44 @@ class Program
 
     private static void LoadJournals()
     {
-        if (File.Exists("placed.log"))
+        if (File.Exists("taken.log"))
         {
-            var lines = File.ReadAllLines("placed.log", Encoding.UTF8);
-            foreach (var line in lines)
-            {
-                if (!string.IsNullOrWhiteSpace(line))
-                    placedJournal.Add(PlacedEvent.FromLogLine(line));
-            }
+            foreach (var line in File.ReadAllLines("taken.log", Encoding.UTF8))
+                if (!string.IsNullOrWhiteSpace(line)) takenJournal.Add(TakenEvent.FromLogLine(line));
+        }
+
+        if (File.Exists("moved.log"))
+        {
+            foreach (var line in File.ReadAllLines("moved.log", Encoding.UTF8))
+                if (!string.IsNullOrWhiteSpace(line)) movedJournal.Add(MovedEvent.FromLogLine(line));
+        }
+
+        if (File.Exists("failed.log"))
+        {
+            foreach (var line in File.ReadAllLines("failed.log", Encoding.UTF8))
+                if (!string.IsNullOrWhiteSpace(line)) failedJournal.Add(FailedAttemptEvent.FromLogLine(line));
+        }
+    }
+    private static void RestoreShelves()
+    {
+        foreach (var e in placedJournal.GetAll())
+        {
+            Shelf shelf = e.Shelf == 'A' ? shelfA : shelfB;
+            shelf.PlaceItem(e.Slot - 1, e.ItemName);
+        }
+
+        foreach (var e in movedJournal.GetAll())
+        {
+            Shelf src = e.SourceShelf == 'A' ? shelfA : shelfB;
+            Shelf dest = e.DestShelf == 'A' ? shelfA : shelfB;
+            var item = src.TakeItem(e.SourceSlot - 1);
+            if (item != null) dest.PlaceItem(e.DestSlot - 1, item);
+        }
+
+        foreach (var e in takenJournal.GetAll())
+        {
+            Shelf shelf = e.Shelf == 'A' ? shelfA : shelfB;
+            shelf.TakeItem(e.Slot - 1);
         }
     }
 }
